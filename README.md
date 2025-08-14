@@ -101,7 +101,3 @@ My extensive freelancing experience enhances my adaptability across diverse proj
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marwan-adel8&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
-
-<br>
-
-![Snake animation](https://github.com/marwan-adel8/marwan-adel8/blob/output/github-contribution-grid-snake.svg)

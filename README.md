@@ -12,7 +12,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/marwan-adel8/marwan-adel8/blob/main/animation.gif" alt="marwan-adel8" /></p>
+<img align="right" src="https://raw.githubusercontent.com/marwan-adel8/marwan-adel8/main/animation.gif" alt="marwan-adel8" />
 
 ## 🧑‍💻 About Me
 

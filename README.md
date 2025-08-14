@@ -11,9 +11,6 @@
 </p>
 
 <br>
-
-<img align="right" src="https://raw.githubusercontent.com/marwan-adel8/marwan-adel8/main/animation.gif" alt="marwan-adel8" />
-
 ## 🧑‍💻 About Me
 
 As a **Frontend Developer**, I specialize in creating responsive and visually compelling web applications using **HTML**, **CSS**, **JavaScript**, and frameworks like **React.js**.  

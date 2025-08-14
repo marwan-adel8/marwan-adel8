@@ -14,10 +14,12 @@
 
 <p><img align="right" src="https://github.com/marwan-adel8/marwan-adel8/blob/main/animation.gif" alt="marwan-adel8" /></p>
 
-- 🌱 I’m currently learning **advanced React concepts, state management (Redux), and backend basics with Node.js**  
+## 🧑‍💻 About Me
 
-- 📫 How to reach me: **marawanelsaka60@gmail.com**  
-
+As a **Frontend Developer**, I specialize in creating responsive and visually compelling web applications using **HTML**, **CSS**, **JavaScript**, and frameworks like **React.js**.  
+I'm skilled in optimizing performance, ensuring cross-browser compatibility, and designing user-centric interfaces.  
+I'm committed to continuous learning and excel in collaborating with teams to deliver high-quality solutions.  
+My extensive freelancing experience enhances my adaptability across diverse projects.
 
 <br>
 

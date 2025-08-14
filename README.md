@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marwan-adel8&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marwan-adel8&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=js" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <h2 align="left">Languages</h2>
 
 ###
@@ -64,5 +71,11 @@
 ###
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg5czZydDZ5MW91YWQxdm5uMTRzcXo0djBieno1aXEzbmZlZnB2dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200.webp"  />
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/marwan-adel8/marwan-adel8/output/snake.svg" alt="Snake animation" />
 
 ###
